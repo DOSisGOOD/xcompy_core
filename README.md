@@ -24,14 +24,14 @@ Installation / Usage
 Screenshots
 -----------
 
-![ss-crtaperature.png](ss-crtaperature.png)
+[![ss-crtaperature.png](ss-crtaperature.png) View full image](ss-crtaperature.png)
 
-![ss-crtconsumer.png](ss-crtconsumer.png)
+[![ss-crtconsumer.png](ss-crtconsumer.png) View full image](ss-crtconsumer.png)
 
-![ss-1tap-bloom.png](ss-1tap-bloom.png)
+[![ss-1tap-bloom.png](ss-1tap-bloom.png) View full image](ss-1tap-bloom.png)
 
-![crt-cyclon.png](crt-cyclon.png)
+[![crt-cyclon.png](crt-cyclon.png) View full image](crt-cyclon.png)
 
-![crt-hylian-sinc-composite.png](crt-hylian-sinc-composite.png)
+[![crt-hylian-sinc-composite.png](crt-hylian-sinc-composite.png) View full image](crt-hylian-sinc-composite.png)
 
-![crt-lottes-multipass-glow.png](crt-lottes-multipass-glow.png)
+[![crt-lottes-multipass-glow.png](crt-lottes-multipass-glow.png) View full image](crt-lottes-multipass-glow.png)
