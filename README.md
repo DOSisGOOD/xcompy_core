@@ -24,6 +24,15 @@ Installation / Usage
 Screenshots
 -----------
 
+Commander Keen 6 - (ID Software 1991 - DOS)
+
+[![ss-keen6-megabezel-1.png](ss-keen6-megabezel-1.png) View full image](ss-keen6-megabezel-1.png)
+
+[![ss-keen6-crtlottes.png](ss-keen6-crtlottes.png) View full image](ss-keen6-crtlottes.png)
+
+
+Warrior Blade: Rastan Saga Episode III (Taito 1991 - Arcade)
+
 [![ss-crtaperature.png](ss-crtaperature.png) View full image](ss-crtaperature.png)
 
 [![ss-crtconsumer.png](ss-crtconsumer.png) View full image](ss-crtconsumer.png)
